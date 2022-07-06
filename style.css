@@ -15,7 +15,7 @@ button {
     background: tomato;
 }
 
-section {
+.flexibel {
     display: flex;
     margin-bottom: 100px;
 }
