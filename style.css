@@ -17,6 +17,7 @@ button {
 
 section {
     display: flex;
+    margin-bottom: 100px;
 }
 
 .container1 {
@@ -40,4 +41,11 @@ section {
 .section1 {
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+
+.section2nd {
+    padding-right: 10%;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
