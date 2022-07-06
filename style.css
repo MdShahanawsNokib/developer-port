@@ -49,3 +49,31 @@ button {
     background-repeat: no-repeat;
     background-position: right;
 }
+
+.sectionthird {
+    width: 90%;
+    padding-left: 5%;
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+.c31 {
+    width: 80%;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 10px;
+    padding: 10px;
+    border-left: 10px solid tomato;
+    box-shadow: 10px 10px 10px gray;
+}
+
+.c32 {
+    width: 80%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 20px;
+    border-radius: 10px;
+    border-left: 10px solid blue;
+    box-shadow: 10px 10px 10px gray;
+}
